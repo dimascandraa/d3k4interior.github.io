@@ -1309,6 +1309,10 @@ RESERVATION SECTION
 
 @media (max-width: 767px) {
 
+	#mu-map {
+    height: 350px;
+  }
+	
   #mu-header {
     padding: 0 15px;
   }
