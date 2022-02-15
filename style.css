@@ -1349,6 +1349,10 @@ RESERVATION SECTION
 
 @media (max-width: 640px) {
   
+	#mu-map {
+    height: 350px;
+  }
+	
   .navbar-default .navbar-toggle:hover, 
   .navbar-default .navbar-toggle:focus {
     background-color: #fff;
